@@ -1,4 +1,6 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://luxe-gray.vercel.app/sitemap.xml
+Disallow: /admin/
+Disallow: /config/
+Disallow: /private/
+Disallow: /employee-number/
+Disallow: /secret-data.html
